@@ -20,7 +20,7 @@ build/
 .ipynb_checkpoints
 
 # ML models (usually large files, consider using Git LFS instead)
-models/*.pt
+
 models/*.pth
 models/*.h5
 models/*.pb
